@@ -1,0 +1,211 @@
+
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        #toppage {
+            height: 100vh;
+            width: 100%;
+            font-family: Century Gothic;
+            align-self: center;
+            text-align: center;
+            font-size:70px;
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+
+        }
+        #box1{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/himym1.jpg);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box2 {
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/i3.jpg);
+            background-size: cover;
+            font-family: Century Gothic;
+            align-self: center;
+            font-size:70px;
+            text-align: center;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box3{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/himym2.jpg);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box4{
+            height: 100vh;
+            width: 100%;
+            font-family: Century Gothic;
+            font-size:70px;
+            text-align: center;
+           }
+      #box5{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/w1.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+      }
+      #box6{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/w2.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+      }
+        #box7{
+            height: 100vh;
+            width: 100%;
+            font-family: Century Gothic;
+            font-size:70px;
+            text-align: center;
+           }
+
+        #box8{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/q2.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+         #box9{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/q1.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+         #box10{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/q3.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+
+        #box11{
+             height: 100vh;
+            width: 100%;
+            font-family: Century Gothic;
+            font-size:70px;
+            text-align: center;
+        }
+        #box12{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/t1.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box13{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/t2.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box14{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/t3.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+
+        #box15{
+             height: 100vh;
+            width: 100%;
+            font-family: Century Gothic;
+            font-size:70px;
+            text-align: center;
+        }
+        #box16{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/z1.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        
+        #box17{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/z2.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+          #box18{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/z3.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+         #box19{
+            height: 100vh;
+            width: 100%;
+            font-family: Century Gothic;
+            font-size:70px;
+            text-align: center;
+        }
+        #box20{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/s1.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box21{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/s2.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box22{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/s3.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box23{
+            height: 100vh;
+            width: 100%;
+            background-image: url(images/s4.gif);
+            background-size: cover;
+            display: table;
+            background-attachment: fixed;
+        }
+        #box24{
+            height: 100vh;
+            width: 100%;
+            font-family: Century Gothic;
+            font-size:70px;
+            text-align: center;
+        }
